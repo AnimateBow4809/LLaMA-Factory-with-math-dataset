@@ -1,4 +1,7 @@
 {
+  "math_test":{
+    "file_name":"math_test.json"
+  },
   "math_train":{
     "file_name":"math_train.json"
   },
